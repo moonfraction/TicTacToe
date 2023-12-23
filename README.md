@@ -39,4 +39,4 @@ Feel free to contribute to the improvement of this simple Tic Tac Toe game. You 
 Make sure you have Python installed on your system.
 
 ```bash
-python tic_tac_toe.py
+python TicTacToe.py
